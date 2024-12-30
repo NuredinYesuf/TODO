@@ -1,3 +1,6 @@
+<nav></nav>
+    <router-link to="/">Home</router-link>
+</nav>
 <template>
     <div class="hello">
         <h1>{{ msg }}</h1>
